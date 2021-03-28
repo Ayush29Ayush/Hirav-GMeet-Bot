@@ -9,8 +9,8 @@ The bot can do the following things with the following commands on inputing the 
 - taking screenshot ` /ss `
 - providing the name of a random attendee ` /random `
 - providing with a new word  ` /newword `
--activating chat bot `bot/text`
--generating the pdf with MOM, attendance, and profanity `/exit`
+- activating chat bot `bot/text`
+- generating the pdf with MOM, attendance, and profanity `/exit`
 
 
 Needed python libraries
