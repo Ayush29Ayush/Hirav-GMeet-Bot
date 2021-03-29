@@ -19,8 +19,8 @@ from functions.screenshots import ss
 from functions.foullang import foulLanguage
 from chat import chatbot
 
-#ADD CREDENTIALS HERE
-CREDS = {'email' : 'gmeethelpbot2@gmail.com','passwd':'chickenwings'}
+#ADD CREDENTIALS OF BOT HERE
+CREDS = {'email' : 'email of bot account','passwd':'pw of bot account'} 
 
 opt = Options()
 opt.add_argument("--disable-infobars")
